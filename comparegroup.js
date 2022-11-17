@@ -1,4 +1,4 @@
-class GroupErr extends react.exports.Component {
+class Chart extends exports.Component {
   render() {
     var group1 = {
       x: ["Jul", "Aug", "Sep", "Oct", "Nov"],
